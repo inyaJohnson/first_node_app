@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/inyaJohnson/first_node_app/issues"
   },
-  "homepage": "https://github.com/inyaJohnson/first_node_app#readme"
+  "homepage": "https://github.com/inyaJohnson/first_node_app#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
